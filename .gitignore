@@ -1,0 +1,36 @@
+# Build folders
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# macOS
+.DS_Store
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Generated binaries
+run_simulation
+*.o
+*.obj
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.so
+
+# Live session runtime artifacts
+.quantsim_live.pid
+hft_gui.log
+hft_gui_run.log
+
+
+ROADMAP.mdQuantTrade/
