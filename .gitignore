@@ -43,13 +43,11 @@ build_dbg/
 strategies/*.dylib
 
 # Third-party library examples
-third_party/imgui/examples/
-third_party/implot/examples/
+QuantDev/third_party/imgui/examples/
+QuantDev/third_party/implot/examples/
 
-
-
-third_party/
-examples/
+QuantDev/third_party/
+QuantDev/examples/
 
 # Reports (large PDFs/tex kept locally)
 reports/
